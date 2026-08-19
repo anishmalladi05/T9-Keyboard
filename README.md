@@ -33,3 +33,11 @@ Here is an example:
 # Images:
 <img width="517" height="374" alt="Screenshot 2026-08-18 at 6 35 13 PM" src="https://github.com/user-attachments/assets/5b3fb1f6-516c-46ab-9931-37e62b657b90" />
 <img width="1276" height="917" alt="Screenshot 2026-08-19 at 4 23 03 PM" src="https://github.com/user-attachments/assets/194b1b22-f685-4fe6-b1dc-1b7509891cad" />
+
+# Flashing:
+To upload code, click boot on the XIAO, and WHILE HOLDING BOOT, click reset. You will see a drive called RP1-RP2 on you computer. Drag the file called "adafruit-circuitpython-seeeduino_xiao_rp2040-en_US-10.2.1.uf2" from the Git Repo. Now the drive should be called CIRCUITPY. Take the files from the repo and put them on the drive like this:
+<br></br>
+<img width="577" height="126" alt="Screenshot 2026-08-19 at 4 47 41 PM" src="https://github.com/user-attachments/assets/09b1e390-951f-465e-bc03-6587b58842bc" />
+<img width="280" height="215" alt="Screenshot 2026-08-19 at 4 47 47 PM" src="https://github.com/user-attachments/assets/8ef7165f-40e3-43bb-8857-faae43646180" />
+<br></br>
+That's it. ONLY replace code.py and add the library files to the library. Don't change anything else.
