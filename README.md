@@ -22,7 +22,7 @@ To solder it all, I recommend using jumper wires.
 <br></br>
 I cut them up into the correct length and then stripped the ends to expose the copper underneath, which I then soldered.
 <br></br>
-The benefit of this technique is that the wires won't unintentially come into contact and short no matter how tangled they are because they are encased in teh silicone.
+The benefit of this technique is that the wires won't unintentially come into contact and short no matter how tangled they are because they are encased in the silicone.
 <br></br>
 Here is an example:
 <br></br>
