@@ -10,7 +10,7 @@ Basically, each switch has one pin gonnected to ground and the other pin connect
 <br></br>
 <img width="551" height="202" alt="Screenshot 2026-08-19 at 4 31 31 PM" src="https://github.com/user-attachments/assets/865b9db8-03c6-463a-989e-56894ec479e2" />
 <br></br>
-You need to change board.D0 to board.(whichever pin)
+You need to change board.D0 to board.("whichever pin").
 <br></br>
 The pins start at the top left at D0 and go down to the bottom left at D6, then bottom right is D7 and it goes up until D10 (11 total GPIO pins)
 <br></br>
