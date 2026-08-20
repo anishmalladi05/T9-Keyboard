@@ -41,3 +41,8 @@ To upload code, click boot on the XIAO, and WHILE HOLDING BOOT, click reset. You
 <img width="280" height="215" alt="Screenshot 2026-08-19 at 4 47 47 PM" src="https://github.com/user-attachments/assets/8ef7165f-40e3-43bb-8857-faae43646180" />
 <br></br>
 That's it. ONLY replace code.py and add the library files to the library. Don't change anything else.
+
+# Assembly:
+Here is the exploded view, use double sided tape under the baseboard and the XIAO or wherever needed:
+<br></br>
+<img width="672" height="565" alt="Screenshot 2026-08-19 at 5 00 50 PM" src="https://github.com/user-attachments/assets/2aa689e2-53eb-4b07-a150-bf8ce352ac77" />
